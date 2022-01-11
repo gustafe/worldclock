@@ -1,0 +1,22 @@
+<html>
+  <head>
+<title>gerikson.com World Clock</title>
+<style type="text/css"> 
+body {
+background: #073642;
+font-family: sans-serif, Helvetica, Arial;
+
+
+color: #93a1a1;
+}
+caption { font-size: 150%; font-weight: bold;}
+a { color: #268bd2; }
+a:visited { color: #6c71c4; }
+#footer { position: fixed; bottom: 0; }
+table { width:100%; }
+.citydisplay {font-size: 250%; }
+.timedisplay {font-size: 500%; font-weight: bolder; color: #b58900;}
+.datedisplay {font-size: 150%; font-style: italic; color: #268bd2}
+</style>
+</head>
+<body>

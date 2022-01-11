@@ -1,4 +1,4 @@
-gerikson.com World Clock
+# gerikson.com World Clock
 
 Simple web page displaying time and date in some locations.
 
